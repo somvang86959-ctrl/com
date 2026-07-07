@@ -1,0 +1,12 @@
+{
+  "name": "student-webserver",
+  "version": "1.0.0",
+  "description": "Basic Web Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
